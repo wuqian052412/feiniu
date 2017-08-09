@@ -1,3 +1,3 @@
 
 # 项目预览:
-https://potatoma.github.io/Feiniu/public/index.html
+https://wuqian052412.github.io/feiniu/public/index.html
